@@ -1,0 +1,5 @@
+a= ["John", "Charles", "Mike"]
+b = ["Jenny", "Christy", "Monica"]
+tuples_converted= zip(a, b)
+converted_list=list(x)
+print(converted_list) 
